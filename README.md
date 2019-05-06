@@ -13,8 +13,8 @@ track are given in python data arrays lats.npy,lons.npy,NIR.npy.
 Centre line coordinates of the polluted cloud track (this has been hand-logged by clicking on the image of MODIS near-infrared reflectance) are given in the text file track.txt. 
 
 Python files
-main.py - main progrm, handles data input and runs the classification code
-classification.py - demonstrates the pixel classification method
-geometry_calc.py - geometrical calculations 
+main.py - main progrm, handles data input and runs the classification code;
+classification.py - demonstrates the pixel classification method;
+geometry_calc.py - geometrical calculations.
 
 numpy, shapely and matplotlib python packages are used.
