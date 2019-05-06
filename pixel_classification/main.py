@@ -8,7 +8,7 @@ import classification as cl
 t_file='track.txt'
 lons_t,lats_t=np.loadtxt(t_file, skiprows=0, unpack=True)
 
-# lons, lats and near-infrared NIRlectance of (MODIS) INPUT data to be anlyzed
+# lons, lats and near-infrared reflectance of (MODIS) INPUT data to be anlyzed
 lons=np.load('./lons.npy')
 lats=np.load('./lats.npy')
 NIR=np.load('./NIR.npy')
