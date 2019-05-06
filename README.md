@@ -1,6 +1,8 @@
 # polluted_cloud_tracks
 Python code to detect polluted cloud pixels in satellite images
 
+DOI 10.5281/zenodo.2669447
+
 Additional information:
 Velle Toll
 velle.toll@ut.ee
